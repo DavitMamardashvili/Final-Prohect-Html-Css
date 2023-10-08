@@ -1,0 +1,751 @@
+p {
+    font-family: 'ABeeZee', sans-serif;
+    font-weight: 400;
+    color: #4b4342;
+}
+
+h2 {
+    font-family: 'Merienda', cursive;
+    color: #4b4342;
+}
+
+img {
+    object-fit: cover;
+}
+
+header {
+    height: 100px;
+}
+
+header nav {
+    margin-top: 40px !important;
+    width: 780px;
+    height: 70px;
+}
+
+header nav ul {
+    margin-top: 20px;
+    list-style: none;
+    width: 270px;
+    padding: 0px;
+}
+
+header nav ul a {
+    text-decoration: none;
+    color: black;
+}
+
+header nav ul a li {
+    font-size: 18px;
+    font-family: 'Merienda', cursive;
+    font-weight: 700;
+}
+
+header nav ul a .active {
+    color: #5FCAC7;
+}
+
+header img {
+    height: 185px;
+    width: 185px;
+    margin-top: 10px;
+    z-index: 1000;
+}
+
+main .first-carusel {
+    height: 675px;
+}
+
+main .first-carusel .carousel {
+    height: 675px;
+    width: 100%;
+}
+
+main .first-carusel .carousel .carousel-inner {
+    height: 675px;
+}
+
+main .first-carusel .carousel img {
+    height: 675px;
+    width: 100%;
+}
+
+main .first-carusel .carousel .logo {
+    height: 512px;
+    width: 900px;
+    margin-left: 28px;
+}
+
+main .first-carusel .carousel .logo .asides {
+    height: 91px;
+    width: 166px;
+}
+
+main .first-carusel .carousel .logo .asides img {
+    height: 91px;
+    width: 166px;
+}
+
+main .first-carusel .carousel .logo .main-contant {
+    height: 512px;
+    width: 512px;
+}
+
+main .first-carusel .carousel .logo .main-contant img {
+    height: 512px;
+    width: 512px;
+}
+
+main .first-carusel .carousel .logo .main-contant .main-contant-2 img {
+    height: 53px;
+    width: 112px;
+}
+
+main .first-carusel .carousel .logo .main-contant .main-contant-2 {
+    height: 53px;
+    width: 112px;
+    top: 110px;
+    left: 200px;
+}
+
+main .first-carusel .carousel .logo .main-contant .text {
+    height: 172px;
+    width: 296px;
+    top: 194px;
+    left: 110px;
+}
+
+main .first-carusel .carousel .logo .main-contant .text h2 {
+    font-size: 43px;
+    margin: 0px;
+    font-weight: 800;
+    color: black;
+}
+
+main .first-carusel .carousel .logo .main-contant .text p {
+    font-size: 13px;
+    margin-top: 24px;
+}
+
+main .specialties {
+    height: 670px;
+
+}
+
+main .specialties .background-pictures {
+    height: 670px;
+    background-color: white;
+}
+
+main .specialties .background-pictures img {
+    opacity: .23 !important;
+    width: 100%;
+    height: 100%;
+
+}
+
+main .specialties .header-logo {
+    height: 115px;
+    width: 371px;
+    margin-top: 60px;
+}
+
+main .specialties .header-logo img {
+    height: 41px;
+    width: 221px;
+    padding: 0px 20px;
+    box-sizing: border-box;
+
+}
+
+main .specialties .header-logo h2 {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+main .specialties p {
+    font-size: 17px;
+}
+
+main .specialties .card-area {
+    height: 330px;
+    width: 1140px;
+    margin-top: 26px !important;
+}
+
+main .specialties .card-area .cupcake {
+    height: 326px;
+    width: 240px;
+}
+
+main .specialties .card-area .cupcake .cupcake-img {
+    height: 180px;
+    width: 180px;
+}
+
+main .specialties .card-area .cupcake .cupcake-img .shape {
+    transition: 300ms;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    z-index: 2;
+}
+
+main .specialties .card-area .cupcake .cupcake-img .shape svg {
+    width: 175px;
+    height: 175px;
+    transition: 500ms;
+}
+
+
+main .specialties .card-area .cupcake:hover .cupcake-img .shape svg {
+    fill: #5fcac7 !important;
+}
+
+main .specialties .card-area .cupcake .cupcake-img .shape .cake-img {
+    left: 0;
+    right: 0;
+    top: 0px;
+    bottom: 5px;
+    height: 126px;
+    width: 126px;
+    z-index: 5;
+}
+
+main .specialties .card-area .cupcake .cupcake-img .shape .cake-img img {
+    width: 126px;
+    height: 126px;
+
+}
+
+main .specialties .card-area .cupcake .card-text {
+    margin-top: 12px;
+}
+
+main .specialties .card-area .cupcake .card-text h2 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+main .magic-processing {
+    height: 650px;
+}
+
+main .magic-processing .background-pictures {
+    height: 650px;
+    background-color: rgba(67, 183, 156);
+}
+
+main .magic-processing .background-pictures img {
+    opacity: 0.2 !important;
+    width: 100%;
+    height: 100%;
+}
+
+main .magic-processing article {
+    width: 945px;
+    height: 430px;
+    margin-top: 88px;
+}
+
+main .magic-processing article .shape {
+    height: 130px;
+    width: 130px;
+}
+
+main .magic-processing article .shape svg {
+    height: 130px;
+    width: 130px;
+}
+
+main .magic-processing article .shape .hard {
+    height: 90px;
+    width: 85px;
+}
+
+main .magic-processing article .shape .hard img {
+    height: 88px;
+    width: 88px;
+}
+
+main .magic-processing article .text-area h2 {
+    font-size: 65px;
+    color: white;
+    margin-bottom: 34px;
+}
+
+main .magic-processing article .text-area p {
+    color: white;
+    font-size: 17px;
+}
+
+main .magic-processing article button {
+    width: 270px;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-top: 70px;
+    border: 1px solid white;
+    transition: 700ms;
+
+}
+
+main .magic-processing article button:hover {
+    background-color: white;
+    color: rgba(67, 183, 156);
+}
+
+main .creations {
+    height: 900px;
+}
+
+main .creations .header-logo {
+    height: 115px;
+    width: 371px;
+    margin-top: 55px !important;
+}
+
+main .creations .header-logo h2 {
+    font-size: 48px;
+    margin-top: 10px;
+    font-weight: 700;
+}
+
+main .creations .header-logo img {
+    height: 41px;
+    width: 221px;
+    padding: 0px 20px;
+    box-sizing: border-box;
+}
+
+main .creations .card-area {
+    height: 594px;
+    width: 1180px;
+    margin-top: 30px !important;
+}
+
+main .creations .card-area .cake-card {
+    height: 280px;
+    width: 280px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+main .creations .card-area .cake-card img {
+    height: 280px;
+    width: 280px;
+}
+
+main .know-us-better {
+    height: 600px;
+}
+
+main .know-us-better .background-pictures {
+    height: 600px;
+    background-color: rgb(0, 0, 0);
+}
+
+main .know-us-better h2 {
+    color: white;
+    font-size: 30px;
+    margin-top: 20px;
+
+}
+
+main .know-us-better p {
+    margin-top: 10px;
+    color: white;
+    font-size: 17px;
+}
+
+main .know-us-better .background-pictures img {
+    opacity: .5 !important;
+    width: 100%;
+    height: 100%;
+}
+
+main .know-us-better .contant {
+    height: 420px;
+    width: 1170px;
+}
+
+main .know-us-better .contant .card-area {
+    height: 300px;
+    width: 1170px;
+}
+
+main .know-us-better .contant .card-area .cards {
+    height: 100%;
+    width: 280px;
+}
+
+main .know-us-better article .card-area .cards .cards-img {
+    height: 130px;
+    width: 130px;
+}
+
+main .know-us-better .contant .card-area .cards .cards-img .shape .cake-img img {
+    height: 60px;
+    width: 60px;
+}
+
+main .know-us-better .contant button {
+    width: 270px;
+    height: 50px;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 24px;
+    font-family: 'Merienda', cursive;
+    margin-top: 40px !important;
+    border: 2px solid black;
+    transition: 700ms;
+
+}
+
+main .know-us-better .contant button:hover {
+    color: white;
+    background-color: black;
+}
+
+
+.recipes {
+    height: 900px;
+    background-image: url("../assets/Home/backgroun-images/5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main .recipes .header-logo {
+    height: 115px;
+    width: 376px;
+    padding-top: 55px;
+    box-sizing: border-box;
+}
+
+main .recipes .header-logo h2 {
+    font-size: 48px;
+    margin: 10px 0px;
+    font-weight: 700;
+}
+
+main .recipes .header-logo img {
+    height: 41px;
+    width: 221px;
+    padding: 0px 20px;
+    box-sizing: border-box;
+}
+
+.recipes .carousel {
+    height: 690px;
+    width: 1050px;
+    margin-top: 75px !important;
+}
+
+.recipes .carousel button {
+    background-color: #FF91A4;
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    margin: 0px 6px;
+}
+
+.clients-say {
+    height: 520px;
+    background-color: #FF91A4;
+}
+
+.clients-say h2 {
+    padding-top: 65px;
+    box-sizing: border-box;
+    color: white;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.clients-say .carousel {
+    height: 332px;
+    width: 1200px;
+    margin: 0px 15px;
+}
+
+.clients-say .carousel .carousel-indicators button {
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    margin: 0px 6px;
+}
+
+.clients-say .carousel .carousel-item {
+    margin-top: 40px;
+    height: 282px;
+    width: 1200px;
+}
+
+.clients-say .carousel .carousel-item .autor-img {
+    height: 92px;
+    width: 92px;
+    border-radius: 50%;
+}
+
+.clients-say .carousel .carousel-item .autor-img img {
+    height: 92px;
+    width: 92px;
+
+}
+
+.clients-say .carousel .carousel-item p {
+    font-size: 17px;
+    color: white;
+    margin-top: 30px;
+}
+
+.clients-say .carousel .carousel-item h3 {
+    font-size: 24px;
+    color: white;
+    margin-top: 22px;
+    font-family: 'Merienda', cursive;
+    font-weight: 700;
+}
+
+main .prices {
+    height: 1000px;
+}
+
+main .prices .header-logo {
+    height: 115px;
+    width: 371px;
+    margin-top: 50px !important;
+}
+
+main .prices .header-logo img {
+    height: 41px;
+    width: 221px;
+    padding: 0px 20px;
+    box-sizing: border-box;
+
+}
+
+main .prices .header-logo h2 {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+main .prices .card-area {
+    height: 700px;
+    width: 1180px;
+    margin-top: 118px !important;
+
+}
+
+main .prices .card-area .cakes {
+    height: 650px;
+    width: 270px;
+    border: 5px solid #5FCAC7;
+    border-radius: 12px;
+}
+
+main .prices .card-area .cakes .cake-img {
+    height: 157px;
+    width: 164px;
+}
+
+main .prices .card-area .cakes .cake-img img {
+    height: 157px;
+    width: 164px;
+}
+
+main .prices .card-area .cakes .header {
+    height: 180px;
+    width: 100%;
+    background-color: #5FCAC7;
+}
+
+main .prices .card-area .cakes .header h3 {
+    text-align: center;
+    font-size: 28px;
+    padding: 90px 15px 0px;
+    box-sizing: border-box;
+    color: white;
+    font-family: 'Merienda', cursive;
+}
+
+main .prices .card-area .cakes .card-text {
+    height: 405px;
+    width: 230px;
+}
+
+main .prices .card-area .cakes .card-text h3 {
+    font-size: 48px;
+    padding-top: 30px;
+    font-family: 'Merienda', cursive;
+}
+
+main .prices .card-area .cakes .card-text .cake-count {
+    height: 29px;
+    width: 142px;
+    background-color: #FF91A4;
+    border-radius: 10px;
+    margin-top: 20px !important;
+}
+
+main .prices .card-area .cakes .card-text .cake-count span {
+    font-size: 14px;
+    padding-top: 3px;
+    color: white;
+}
+
+main .prices .card-area .cakes .card-text .aniseed {
+    margin-top: 30px;
+}
+
+main .prices .card-area .cakes .card-text hr {
+    color: #5FCAC7;
+    opacity: 1;
+}
+
+main .prices .card-area .cakes .card-text button {
+    background-color: white;
+    height: 40px;
+    width: 100%;
+    border-radius: 20px;
+    font-size: 20px;
+    transition: 700ms;
+    font-family: 'Merienda', cursive;
+
+}
+
+main .prices .card-area .cakes .card-text button:hover {
+    color: white;
+    background-color: black;
+}
+
+main .prices .card-area .bast {
+    border: 5px solid #FF91A4;
+}
+
+main .prices .card-area .bast .header {
+    background-color: #FF91A4;
+}
+
+main .prices .card-area .bast .card-text .cake-count {
+    background-color: #5FCAC7;
+}
+
+
+footer {
+
+    height: 450px;
+    background-color: rgba(75, 67, 66);
+}
+
+footer .background-img img {
+    opacity: .1 !important;
+    width: 100%;
+    height: 450px;
+}
+
+footer article {
+    height: 330px;
+    width: 1180px;
+    margin-top: 50px;
+}
+
+footer article .left {
+    height: 200px;
+    width: 370px;
+}
+
+footer article .text-area {
+    height: 92px;
+    width: 100%;
+}
+
+footer article .text-area h2 {
+    font-size: 30px;
+    color: white;
+    font-weight: 700;
+}
+
+footer article .text-area svg {
+    margin: 10px 0px 0px;
+    height: 55px;
+    width: 55px;
+    color: white;
+}
+
+footer article .left .contacts {
+    height: 75px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+footer article .left .contacts .icons {
+    height: 65px;
+    width: 65px;
+    color: #4B4342;
+}
+
+footer article .left .contacts .icons svg {
+    fill: white;
+    transition: 500ms
+
+}
+
+footer article .left .contacts .icons:hover svg {
+    fill: #4b4342;
+}
+
+footer article .left .contacts .icons div {
+    font-size: 30px;
+    transition: 500ms
+
+}
+
+footer article .left .contacts .icons:hover div {
+    color: white;
+}
+
+footer article .mid {
+    height: 330px;
+    width: 330px;
+}
+
+footer article .mid img {
+    height: 300px;
+    width: 300px;
+}
+
+footer article .rigth {
+    height: 200px;
+    width: 380px;
+}
+
+footer article .rigth form {
+    margin-top: 20px;
+}
+
+footer article .rigth form input {
+    width: 290px;
+    height: 42px;
+    padding: 0px 10px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+}
+
+footer article .rigth form button {
+    height: 42px;
+    width: 60px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    font-size: 19px;
+    transition: 500ms;
+}
+
+footer article .rigth form button:hover {
+    background-color: #5FCAC7;
+}
