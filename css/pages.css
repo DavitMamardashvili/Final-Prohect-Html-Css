@@ -1,0 +1,321 @@
+p {
+    font-family: 'ABeeZee', sans-serif;
+    font-weight: 400;
+    color: #4b4342;
+}
+
+h2 {
+    font-family: 'Merienda', cursive;
+    color: #4b4342;
+}
+
+img {
+    object-fit: cover;
+}
+
+header {
+    height: 100px;
+}
+
+header nav {
+    margin-top: 40px !important;
+    width: 780px;
+    height: 70px;
+}
+
+header nav ul {
+    margin-top: 20px;
+    list-style: none;
+    width: 270px;
+    padding: 0px;
+}
+
+header nav ul a {
+    text-decoration: none;
+    color: black;
+}
+
+header nav ul a li {
+    font-size: 18px;
+    font-family: 'Merienda', cursive;
+    font-weight: 700;
+}
+
+header nav ul a .active {
+    color: #5FCAC7;
+}
+
+header img {
+    height: 185px;
+    width: 185px;
+    margin-top: 10px;
+    z-index: 1000;
+}
+
+.contact-start {
+    height: 340px;
+    background-image: url("../assets/Contact-page-imgs/img-1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.contact-start div {
+    height: 100px;
+    width: 380px;
+}
+
+.contact-start div h2 {
+    font-size: 51px;
+    font-weight: 500;
+    color: white;
+    margin: 0px 0px 10px;
+}
+
+.contact-start div p {
+    font-size: 17px;
+    color: white;
+    letter-spacing: 2px;
+}
+
+.contact-start div p a {
+    color: white;
+}
+
+main .contacts {
+    height: 1100px;
+    padding: 40px 0px;
+    margin-top: 40px;
+}
+
+.contacts .our-contacts {
+    height: 180px;
+    width: 970px;
+}
+
+.contacts .our-contacts img {
+    width: 181px;
+    height: 41px;
+    object-fit: cover;
+}
+
+.contacts .our-contacts h2 {
+    font-size: 48px;
+    margin: 0px 0px 24px;
+}
+
+.contacts .our-contacts p {
+    font-size: 17px;
+}
+
+.contacts .card-area {
+    height: 700px;
+    width: 1180px;
+    margin-top: 118px !important;
+}
+
+.contacts .card-area .cakes {
+    height: 650px;
+    width: 270px;
+    border: 5px solid #5FCAC7;
+    border-radius: 12px;
+}
+
+.contacts .card-area .cakes .cake-img {
+    height: 157px;
+    width: 164px;
+}
+
+.contacts .card-area.cakes .cake-img img {
+    height: 157px;
+    width: 164px;
+}
+
+.contacts .card-area .cakes .header {
+    height: 180px;
+    width: 100%;
+    background-color: #5FCAC7;
+}
+
+.contacts .card-area .cakes .header h3 {
+    text-align: center;
+    font-size: 28px;
+    padding: 90px 15px 0px;
+    box-sizing: border-box;
+    color: white;
+    font-family: 'Merienda', cursive;
+}
+
+.contacts .card-area .cakes .card-text {
+    height: 405px;
+    width: 230px;
+}
+
+.contacts .card-area .cakes .card-text h3 {
+    font-size: 48px;
+    padding-top: 30px;
+    font-family: 'Merienda', cursive;
+}
+
+.contacts .card-area .cakes .card-text .cake-count {
+    height: 29px;
+    width: 142px;
+    background-color: #FF91A4;
+    border-radius: 10px;
+    margin-top: 20px !important;
+}
+
+.contacts .card-area .cakes .card-text .cake-count span {
+    font-size: 14px;
+    padding-top: 3px;
+    color: white;
+}
+
+.contacts .card-area .cakes .card-text .aniseed {
+    margin-top: 30px;
+}
+
+.contacts .card-area .cakes .card-text hr {
+    color: #5FCAC7;
+    opacity: 1;
+}
+
+.contacts .card-area .cakes .card-text button {
+    background-color: white;
+    height: 40px;
+    width: 100%;
+    border-radius: 20px;
+    font-size: 20px;
+    transition: 700ms;
+    font-family: 'Merienda', cursive;
+}
+
+.contacts .card-area .cakes .card-text button:hover {
+    color: white;
+    background-color: black;
+}
+
+.contacts .card-area .best {
+    border: 5px solid #FF91A4;
+}
+
+.contacts .card-area .best .header {
+    background-color: #FF91A4;
+}
+
+.contacts .card-area .best .card-text .cake-count {
+    background-color: #5FCAC7;
+}
+
+footer {
+
+    height: 450px;
+    background-color: rgba(75, 67, 66);
+}
+
+footer .background-img img {
+    opacity: .1 !important;
+    width: 100%;
+    height: 450px;
+}
+
+footer article {
+    height: 330px;
+    width: 1180px;
+    margin-top: 50px;
+}
+
+footer article .left {
+    height: 200px;
+    width: 370px;
+}
+
+footer article .text-area {
+    height: 92px;
+    width: 100%;
+}
+
+footer article .text-area h2 {
+    font-size: 30px;
+    color: white;
+    font-weight: 700;
+}
+
+footer article .text-area svg {
+    margin: 10px 0px 0px;
+    height: 55px;
+    width: 55px;
+    color: white;
+}
+
+footer article .left .contacts {
+    height: 75px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+footer article .left .contacts .icons {
+    height: 65px;
+    width: 65px;
+    color: #4B4342;
+}
+
+footer article .left .contacts .icons svg {
+    fill: white;
+    transition: 500ms
+}
+
+footer article .left .contacts .icons:hover svg {
+    fill: #4b4342;
+}
+
+footer article .left .contacts .icons div {
+    font-size: 30px;
+    transition: 500ms
+}
+
+footer article .left .contacts .icons:hover div {
+    color: white;
+}
+
+footer article .mid {
+    height: 330px;
+    width: 330px;
+}
+
+footer article .mid img {
+    height: 300px;
+    width: 300px;
+}
+
+footer article .rigth {
+    height: 200px;
+    width: 380px;
+}
+
+footer article .rigth form {
+    margin-top: 20px;
+}
+
+footer article .rigth form input {
+    width: 290px;
+    height: 42px;
+    padding: 0px 10px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+}
+
+footer article .rigth form button {
+    height: 42px;
+    width: 60px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    font-size: 19px;
+    transition: 500ms;
+}
+
+footer article .rigth form button:hover {
+    background-color: #5FCAC7;
+}
