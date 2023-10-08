@@ -102,14 +102,12 @@ main .contacts .our-contacts h2 {
 
 main .contacts .our-contacts p {
     font-size: 17px;
-
 }
 
 main .contacts .send-massige {
     width: 1200px;
     height: 438px;
     margin: 110px auto 0px;
-    /* position: fixed; */
 }
 
 main .contacts .send-massige aside h2 {
